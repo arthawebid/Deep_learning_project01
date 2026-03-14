@@ -72,23 +72,6 @@ Predicted Essay Score : 3.65
 Essay Quality : Good
 ```
 
-# Struktur Repository
-
-```
-Automated-Essay-Scoring/
-│
-├── dataset/
-│   └── essay_dataset.csv
-│
-├── notebooks/
-│   └── aes_deeplearning_colab.ipynb
-│
-├── model/
-│   └── trained_model.h5
-│
-└── README.md
-```
-
 # Lisensi
 
 This project is intended for **educational and research purposes**.
